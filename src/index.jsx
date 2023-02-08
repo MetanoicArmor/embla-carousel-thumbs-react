@@ -3,9 +3,9 @@ import ReactDOM from 'react-dom/client'
 import EmblaCarousel from './EmblaCarousel'
 import Header from './Header'
 import Footer from './Footer'
-import '../css/base.css'
-import '../css/sandbox.css'
-import '../css/embla.css'
+import './css/base.css'
+import './css/sandbox.css'
+import './css/embla.css'
 
 const OPTIONS = {}
 const SLIDE_COUNT = 10
